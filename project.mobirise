@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "KlonyMIX",
+    "name": "Суровая Россия 18+",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 33,
@@ -43,8 +43,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "KlonyMIX",
-        "meta_descr": "",
+        "title": "Суровая Россия 18+",
+        "meta_descr": "Отличный сервер Counter Strike 1.6",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
